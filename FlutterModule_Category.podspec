@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FlutterModule_Category'
-  s.version          = '0.1.0'
+  s.version          = '2'
   s.summary          = 'A short description of FlutterModule_Category.'
 
 # This description is used to generate tags and improve search results.
