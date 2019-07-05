@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FlutterModule_Category_Example' do
+  pod 'FlutterModule_Category', :path => '../'
+
+  target 'FlutterModule_Category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
