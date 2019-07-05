@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (25)
+  - FlutterModule_Category (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - FlutterModule_Category (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  FlutterModule_Category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
+  FlutterModule_Category: be80c76d6a1583002c49c7144e618341e30f533a
+
+PODFILE CHECKSUM: f1fccde25f27f9c47e85c7348fb9c94748e4c4db
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,27 @@
+{
+  "name": "FlutterModule_Category",
+  "version": "0.1.0",
+  "summary": "A short description of FlutterModule_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kyleboy/FlutterModule_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kyleboy": "iyinghui@163.com"
+  },
+  "source": {
+    "git": "https://github.com/kyleboy/FlutterModule_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FlutterModule_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
